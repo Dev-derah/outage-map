@@ -48,6 +48,6 @@ A real-time utility outage tracking system with interactive mapping and location
 
 2. **Setup**
    ```bash
-   git clone https://github.com/Dev-derah/outagewatch.git
-   cd outagewatch
+   git clone https://github.com/Dev-derah/outage-map.git
+   cd outage-map
    npm install
